@@ -1,0 +1,27 @@
+[submodule "pack/colors/start/vim-one"]
+	path = pack/colors/start/vim-one
+	url = https://github.com/rakr/vim-one.git
+[submodule "pack/plugins/start/nerdcommenter"]
+	path = pack/plugins/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "pack/fuzzy_search/start/fzf"]
+	path = pack/fuzzy_search/start/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "pack/fuzzy_search/start/fzf.vim"]
+	path = pack/fuzzy_search/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "pack/plugins/start/bufexplorer"]
+	path = pack/plugins/start/bufexplorer
+	url = https://github.com/jlanzarotta/bufexplorer.git
+[submodule "pack/completion/start/coc.nvim"]
+	path = pack/completion/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "pack/plugins/start/vim-unimpaired"]
+	path = pack/plugins/start/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "pack/plugins/start/vim-repeat"]
+	path = pack/plugins/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "pack/git/start/blamer"]
+	path = pack/git/start/blamer
+	url = https://github.com/APZelos/blamer.nvim.git
