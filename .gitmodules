@@ -25,3 +25,9 @@
 [submodule "pack/git/start/blamer"]
 	path = pack/git/start/blamer
 	url = https://github.com/APZelos/blamer.nvim.git
+[submodule "pack/powerline/start/vim-airline"]
+	path = pack/powerline/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/powerline/start/vim-airline-themes"]
+	path = pack/powerline/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git

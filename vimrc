@@ -1,7 +1,8 @@
-"front
-if has('gui_running')
-  set guifont=Roboto\ Mono\ 10
-endif
+"""""""""""" Start Powerline Settings """"""""""""""""
+"let g:airline#extensions#tabline#enabled = 1
+let g:airline_powerline_fonts = 1
+set t_Co=256
+""""""""""" END of PowerLine Settings  """""""""""""""
 
 "NERDTree
 map <C-n> :NERDTreeToggle<CR>
@@ -37,6 +38,12 @@ nnoremap <silent> <C-h> :History<CR>
 "let g:javascript_plugin_flow = 1
 
 "configs
+
+"front
+"set guifont=Roboto\ Mono\ 10
+set guifont=Source\ Code\ Pro\ for\ Powerline
+
+set encoding=utf-8
 
 "change the <leader>
 nnoremap <SPACE> <Nop>
